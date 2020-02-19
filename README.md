@@ -13,3 +13,6 @@ int main(){
 -|-|-
 h|d|e
 d|a|c
+---
+#<center>居中</center>
+  $$\color{green}{\Large\mathbf{居中}}$$
